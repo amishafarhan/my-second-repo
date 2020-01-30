@@ -1,2 +1,6 @@
 first file through master
+<<<<<<< HEAD
 second line is writen from branch master
+=======
+second line is writen from branch2
+>>>>>>> test2
